@@ -10,11 +10,7 @@
 
 - [About](#about)
 - [Installation](#installation)
-- [Links](#links)
-- [Deployed](#Deployed)
 - [Features](#Features)
-- [Website Score](#Websitescore)
-- [Contribution](#Contribution)
 
 ## Need Help?
  
