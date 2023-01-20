@@ -18,7 +18,7 @@
 
 ## Need Help?
  
-- [Discord](https://discord.gg/rcYh8zfTz4)
+- [Discord](https://discord.gg/r)
 
 ## About
 
@@ -44,15 +44,6 @@ pip install pypresence
 ```py
 python Cloner.py
 ```
-## Deployed
-
-- [GitHub](https://github.com/gsampath2/Discord-Server-Cloner/)
-
-## Links
-
-- [Website](https://sampathgujarathi.ml)
-- [GitHub](https://github.com/gsampath2)
-
 
 ## Features
 ```diff
@@ -77,11 +68,3 @@ Contributions are always Welcome...
 
 ### Issues
 If you have any issues with the project or you found a bug please create [new issue here](https://github.com/gsampath2/Discord-Server-Cloner/issues)
-
-
-### Pull Requests
-When submitting a pull request:
-
-- Clone the repo.
-- Create a branch off of master and give it a meaningful name (e.g. my-awesome-new-feature).
-- Open a [pull request](https://github.com/gsampath2/Discord-Server-Cloner/pulls) on [GitHub](https://github.com) and describe the feature or fix.
